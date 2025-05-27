@@ -58,10 +58,10 @@ print(X)
 
 ## Output:
 # (i)to find L and U matrix using LU decomposition
-![image](https://github.com/user-attachments/assets/5870c6d0-0315-4289-855b-0116668fa431)
+![alt text](image.png)
 # (ii)to solve a matrix using LU decomposition.
-![image](https://github.com/user-attachments/assets/1a1f5949-f458-40d1-87cc-a6597711cc03)
 
+![alt text](image-1.png)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
